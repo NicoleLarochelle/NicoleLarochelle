@@ -4,8 +4,8 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-    
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NicoleLarochelle/Active-Directory-Configuration)
+       
 
 <h2>🤳Connect with me:</h2>
 
