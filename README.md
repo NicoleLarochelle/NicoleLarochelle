@@ -5,6 +5,8 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NicoleLarochelle/Active-Directory-Configuration)
+  - [Azure Virtual Machine Setup](https://github.com/NicoleLarochelle/Create-a-Virtual-Machine)
+  - [SOC/Cyber Home Lab](https://github.com/NicoleLarochelle/SOC-Lab)
        
 
 <h2>🤳Connect with me:</h2>
